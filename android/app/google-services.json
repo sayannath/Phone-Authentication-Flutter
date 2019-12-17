@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "343026439361",
+    "firebase_url": "https://phone-fee99.firebaseio.com",
+    "project_id": "phone-fee99",
+    "storage_bucket": "phone-fee99.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:343026439361:android:4afcbfa455b57374337040",
+        "android_client_info": {
+          "package_name": "com.example.phone_authentication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "343026439361-2rkh6pbfbndr5h7vmnvg8jbbdnmgsr7q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.phone_authentication",
+            "certificate_hash": "6db5e7f816dce5fff6af6223d4e326bc66bd0e7c"
+          }
+        },
+        {
+          "client_id": "343026439361-lqoumoh4ntdrpi1hnohs829khg44a1tf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBL_L1x163JeKKbdnkNwAZX7mxGqBt6bVc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "343026439361-lqoumoh4ntdrpi1hnohs829khg44a1tf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
